@@ -89,3 +89,12 @@ body {
   align-items: center;
   justify-content: center;
 }
+#name {
+  padding: 1.5rem;
+  width: 50%;
+  border-radius: 10rem;
+  border: 1px solid #dadce0;
+}
+input:focus {
+  outline: none;
+}
