@@ -72,3 +72,20 @@ body {
   margin-left: 2rem;
   margin-right: 2rem;
 }
+.google-logo {
+  width: 25%;
+}
+.container-logo {
+  /* width: 100%; */
+  /* background-color: #0b57d0; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem 0 2rem 0;
+}
+.container-textbox {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
