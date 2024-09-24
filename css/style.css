@@ -25,8 +25,10 @@ body {
   align-items: center;
   justify-content: center;
   gap: 2rem;
-  padding: 1.8rem;
+  padding: 1.2rem;
   cursor: pointer;
+  margin-left: 2rem;
+  margin-right: 2rem;
 }
 .main-nav-link {
   text-decoration: none;
@@ -53,18 +55,20 @@ body {
 
 .footer-nav-1 {
   border-bottom: 1px solid #dadce0;
-  padding: 1.6rem;
+  padding: 1.2rem;
 }
 
 .footer-nav-2 {
   display: flex;
   justify-content: space-between;
   list-style: none;
-  padding: 1.6rem;
+  padding: 1.2rem;
 }
 .footer-list {
   list-style: none;
   display: flex;
   gap: 2rem;
   cursor: pointer;
+  margin-left: 2rem;
+  margin-right: 2rem;
 }
