@@ -43,6 +43,14 @@ body {
   text-align: center;
 }
 
+.footer {
+  background-color: #f2f2f2;
+}
+
+.footer-nav-1 {
+  border-bottom: 1px solid #dadce0;
+}
+
 /* .main-nav-list {
   list-style: none;
   display: flex;
