@@ -133,6 +133,7 @@ input:focus {
   font-size: 1.4rem;
   font-weight: 350;
   transition: box-shadow 0.3s ease;
+  margin-bottom: 2rem;
 }
 .button-bellow-search {
   background-color: #f8f9fa;
@@ -147,4 +148,15 @@ input:focus {
 .button-bellow-search:hover {
   box-shadow: 0 0 0.8rem rgba(0, 0, 0, 0.2);
   border: 1px solid #f8f9fa;
+}
+.box-last {
+  font-size: 1.2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  margin: 0 auto;
+}
+.text-lang {
+  text-decoration: none;
 }
