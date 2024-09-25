@@ -92,9 +92,10 @@ body {
   border: 1px solid #dadce0;
   border-radius: 50rem;
   padding: 1rem;
+  transition: box-shadow 0.3s ease; /* Smooth transition */
 }
-.container-text:hover {
-  /* box-shadow: 0 2.4rem 4.8rem rgba(0, 0, 0, 0.75); */
+.container-textbox:hover {
+  box-shadow: 0 0 0.8rem rgba(0, 0, 0, 0.2); /* Shadow effect on hover */
 }
 .search-img {
   flex: 0;
