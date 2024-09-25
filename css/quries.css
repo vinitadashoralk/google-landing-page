@@ -1,0 +1,68 @@
+/* ************************* */
+/* below 1344px (smaller desktop) */
+/* ************************* */
+
+@media (max-width: 84em) {
+  .container-textbox {
+    width: 55%;
+  }
+  body {
+    font-size: 1.2rem;
+  }
+  /* .box-last {
+    font-size: 1rem;
+  }
+  .button-bellow-search {
+    font-size: 1.2rem;
+  } */
+}
+/* ************************* */
+/* below 1100px (smaller desktop) 68.75 */
+/* ************************* */
+@media (max-width: 68em) {
+  .container-textbox {
+    width: 60%;
+  }
+  body {
+    font-size: 1rem;
+  }
+  .google-logo {
+    margin-top: 2rem;
+  }
+  /* .box-last {
+    font-size: 0.8rem;
+  }
+  .button-bellow-search {
+    font-size: 1rem;
+  } */
+}
+/* ************************* */
+/* below 800px (smaller desktop) 50 */
+/* ************************* */
+@media (max-width: 50em) {
+  .container-textbox {
+    width: 65%;
+    padding: 0.2rem;
+  }
+  body {
+    font-size: 0.8rem;
+  }
+  /* .button-bellow-search {
+    font-size: 0.8rem;
+  } */
+}
+/* ************************* */
+/* below 600px (smaller desktop) aprox 37 */
+/* ************************* */
+@media (max-width: 37em) {
+  .container-textbox {
+    width: 80%;
+    padding: 0.1rem;
+  }
+  body {
+    font-size: 0.6rem;
+  }
+  .button-bellow-search {
+    font-size: 0.6rem;
+  }
+}
